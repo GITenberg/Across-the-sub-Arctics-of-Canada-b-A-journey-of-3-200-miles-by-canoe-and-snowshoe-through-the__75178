@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8067'
     url: http://www.gutenberg.org/2009/agents/8067
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Heming
+covers:
+- cover_type: archival
+  image_path: 75178-h/images/cover.jpg
 creator:
   author:
     agent_name: Tyrrell, J. W. (James Williams)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57869
     wikipedia: https://en.wikipedia.org/wiki/James_William_Tyrrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75178#Across-the-sub-Arctics-of-Canada-b-A-journey-of-3-200-miles-by-canoe-and-snowshoe-through-the_
 gutenberg_issued: '2025-01-22'
 gutenberg_type: Text
 identifiers:
